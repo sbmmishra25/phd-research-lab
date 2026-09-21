@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "PhD Research Lab"
+message: "If you use this repository, cite the repository and the relevant project."
+type: software
+authors:
+  - family-names: "Mishra"
+    given-names: "Shubham"
+year: 2026
+license: MIT
+repository-code: "https://github.com/sbmmishra25/phd-research-lab"
